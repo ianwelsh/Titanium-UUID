@@ -91,7 +91,6 @@ public class TitaniumUUIDModule extends KrollModule
             e.printStackTrace();
         }
 
-        //return "IMEI: " + imei + "\n SERIAL: " + serial + "\n AndroidID: " + androidID + "\n uuid: " + uuid + "\n md5_uuid: " + hash;
         return hash;
     }
 }
