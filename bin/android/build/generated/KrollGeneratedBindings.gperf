@@ -1,0 +1,18 @@
+%define lookup-function-name lookupGeneratedInit
+%define class-name TitaniumUUIDBindings
+%{
+
+#include <string.h>
+#include <v8.h>
+#include <KrollBindings.h>
+
+#include "it.scsoft.tiuuid.TitaniumUUIDModule.h"
+#include "it.scsoft.tiuuid.ExampleProxy.h"
+
+
+%}
+struct titanium::bindings::BindEntry;
+%%
+it.scsoft.tiuuid.ExampleProxy,::it::scsoft::tiuuid::titaniumuuid::ExampleProxy::bindProxy,::it::scsoft::tiuuid::titaniumuuid::ExampleProxy::dispose
+it.scsoft.tiuuid.TitaniumUUIDModule,::it::scsoft::tiuuid::TitaniumUUIDModule::bindProxy,::it::scsoft::tiuuid::TitaniumUUIDModule::dispose
+%%

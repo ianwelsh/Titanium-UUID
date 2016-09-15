@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+architectures: armeabi armeabi-v7a x86
+description: Titanium-UUID
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2016 by Your Company
+
+# these should not be edited
+name: Titanium-UUID
+moduleid: it.scsoft.tiuuid
+guid: bee4b3dc-feb9-4bcc-b2ea-5c18440ff4cb
+platform: android
+minsdk: 5.2.2.GA

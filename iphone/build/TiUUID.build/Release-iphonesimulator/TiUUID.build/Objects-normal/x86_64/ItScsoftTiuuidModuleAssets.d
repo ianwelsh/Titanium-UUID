@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/francesco/Documents/Xcode/TiUUID/iphone/Classes/ItScsoftTiuuidModuleAssets.m \
-  /Users/francesco/Documents/Xcode/TiUUID/iphone/Classes/ItScsoftTiuuidModuleAssets.h
+  /Users/ian/svn/source/wral/applications/mobile/modules/Titanium-UUID/iphone/Classes/ItScsoftTiuuidModuleAssets.m \
+  /Users/ian/svn/source/wral/applications/mobile/modules/Titanium-UUID/iphone/Classes/ItScsoftTiuuidModuleAssets.h

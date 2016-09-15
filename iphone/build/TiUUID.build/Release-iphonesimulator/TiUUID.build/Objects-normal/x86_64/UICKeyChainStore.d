@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/francesco/Documents/Xcode/TiUUID/iphone/UICKeyChainStore.m \
-  /Users/francesco/Documents/Xcode/TiUUID/iphone/UICKeyChainStore.h
+  /Users/ian/svn/source/wral/applications/mobile/modules/Titanium-UUID/iphone/UICKeyChainStore.m \
+  /Users/ian/svn/source/wral/applications/mobile/modules/Titanium-UUID/iphone/UICKeyChainStore.h
